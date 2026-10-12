@@ -17,6 +17,6 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 - kierowanie samochodem.
 
 zadanie 1 (wujasanienie)
-- naglowek **tekst**
+- naglowek ** tekst **
 - kropki- podpunkt (-tekst)
   
